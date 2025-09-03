@@ -65,3 +65,23 @@ The solution connects to multiple financial datasets, applies **data modeling an
 - Best practices in financial reporting & visualization  
 
 ---
+## 📂 Repository Structure
+- InvestmentPortfolio.pbix → Power BI Desktop file
+- images/ → Dashboard screenshots
+- README.md → Project description
+
+
+---
+
+## 🚀 How to Use
+1. Clone this repository.  
+2. Open `PowerBI_Case_Study.pbix` in **Power BI Desktop**.  
+3. Explore the dashboards and interact with slicers, drillthrough, and bookmarks.  
+
+---
+
+## 📌 Purpose
+This project demonstrates applied skills in **Power BI financial analysis**, **DAX modeling**, and **dashboard interactivity**.  
+It highlights the ability to transform raw financial data into actionable insights for trading and portfolio management.  
+
+---
