@@ -22,10 +22,13 @@ The solution connects to multiple financial datasets, applies **data modeling an
 - Daily traded volume  
 - Year-to-date traded volume  
 
+
 **Preview**
 <p align="center">
-  <img src="images/CFI_capital_partners_exchange.JPG" alt="Exchange Dashboard" width="500"/>
+  [<img src="images/CFI_capital_partners_exchange.JPG" alt="Exchange Dashboard" width="700"/>](images/CFI_capital_partners_exchange.JPG)
 </p>
+
+
 
 ---
 
@@ -42,7 +45,7 @@ The solution connects to multiple financial datasets, applies **data modeling an
 
 **Preview**
 <p align="center">
-  <img src="images/CFI_capital_partners_securities_portfolio.JPG" alt="Portfolio Dashboard" width="500"/>
+  [<img src="images/CFI_capital_partners_securities_portfolio.JPG" alt="Portfolio Dashboard" width="700"/>](images/CFI_capital_partners_securities_portfolio.JPG)
 </p>
 
 ---
