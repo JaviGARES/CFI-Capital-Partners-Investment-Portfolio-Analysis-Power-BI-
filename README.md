@@ -66,8 +66,8 @@ The solution connects to multiple financial datasets, applies **data modeling an
 
 ---
 ## 📂 Repository Structure
-- InvestmentPortfolio.pbix → Power BI Desktop file
 - images/ → Dashboard screenshots
+- PowerBI_Case_Study.pbix → Power BI Desktop file
 - README.md → Project description
 
 
