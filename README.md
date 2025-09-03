@@ -61,7 +61,7 @@ The solution connects to multiple financial datasets, applies **data modeling an
 - Power Query (data transformation)  
 - Data modeling in Power BI  
 - Advanced DAX measures and calculated columns  
-- Dashboard interactivity (drillthrough, bookmarks, formatting)  
+- Dashboard interactivity (drillthrough, bookmarks, conditional formatting)  
 - Best practices in financial reporting & visualization  
 
 ---
