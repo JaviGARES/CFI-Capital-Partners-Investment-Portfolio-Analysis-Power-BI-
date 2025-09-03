@@ -42,7 +42,7 @@ The solution connects to multiple financial datasets, applies **data modeling an
 
 **Preview**
 <p align="center">
-  <img src="images/CFI_capital_partners_.JPG" alt="Portfolio Dashboard" width="500"/>
+  <img src="images/CFI_capital_partners_securities_portfolio.JPG" alt="Portfolio Dashboard" width="500"/>
 </p>
 
 ---
