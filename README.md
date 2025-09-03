@@ -75,9 +75,9 @@ The solution connects to multiple financial datasets, applies **data modeling an
 
 ## 🚀 How to Use
 1. Clone this repository.  
-2. Open `PowerBI_Case_Study.pbix` in **Power BI Desktop**.  
-3. Explore the dashboards and interact with slicers, drillthrough, and bookmarks.  
-
+2. [⬇️ Download PBIX File](https://github.com/JaviGARES/CFI-Capital-Partners-Investment-Portfolio-Analysis-Power-BI-/raw/main/PowerBI_Case_Study.pbix) and Open it in **Power BI Desktop**.  
+3. Explore the dashboards and interact with slicers, drillthrough, and bookmarks.
+   
 ---
 
 ## 📌 Purpose
