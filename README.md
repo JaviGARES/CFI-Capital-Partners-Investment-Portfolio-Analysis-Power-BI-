@@ -24,7 +24,7 @@ The solution connects to multiple financial datasets, applies **data modeling an
 
 **Preview**
 <p align="center">
-  <img src="images/Exchange_Dashboard.jpg" alt="Exchange Dashboard" width="500"/>
+  <img src="images/CFI_capital_partners_exchange.JPG" alt="Exchange Dashboard" width="500"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@ The solution connects to multiple financial datasets, applies **data modeling an
 
 **Preview**
 <p align="center">
-  <img src="images/Portfolio_Dashboard.jpg" alt="Portfolio Dashboard" width="500"/>
+  <img src="images/CFI_capital_partners_.JPG" alt="Portfolio Dashboard" width="500"/>
 </p>
 
 ---
