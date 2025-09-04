@@ -1,4 +1,3 @@
-# CFI-Capital-Partners-Investment-Portfolio-Analysis-Power-BI-
 
 ## 📌 Project Overview
 This project was developed as part of a case study for **CFI Capital Partner**, an investment bank.  
